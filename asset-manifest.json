@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/websitebidir/static/css/main.4e03c19a.css",
+    "main.js": "/websitebidir/static/js/main.7448e83d.js",
+    "static/media/about-us.png.svg": "/websitebidir/static/media/about-us.png.c90442944ef0240ed6406bc4b83ad84e.svg",
+    "static/media/home-right.png.svg": "/websitebidir/static/media/home-right.png.49a4a4dd95094c5179d657ad10b140ac.svg",
+    "static/media/s2.png.svg": "/websitebidir/static/media/s2.png.e222f0e9c966164cb686bc42996c8693.svg",
+    "static/media/s4.png.svg": "/websitebidir/static/media/s4.png.7379ca3f1b283a6d6d6d5fd45c0bf9f4.svg",
+    "static/media/s3.png.svg": "/websitebidir/static/media/s3.png.3ed9fb8796943c531490cfacf0124b8b.svg",
+    "static/media/s1.png.svg": "/websitebidir/static/media/s1.png.b64a4b83c9155df642ff3a86d36a80a7.svg",
+    "static/media/div_before.svg": "/websitebidir/static/media/div_before.5e70f08340d9542ffc6be2c1692acac3.svg",
+    "static/media/logo3.png.svg": "/websitebidir/static/media/logo3.png.70a8e97bada6e93c55e987e99098b946.svg",
+    "index.html": "/websitebidir/index.html",
+    "main.4e03c19a.css.map": "/websitebidir/static/css/main.4e03c19a.css.map",
+    "main.7448e83d.js.map": "/websitebidir/static/js/main.7448e83d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e03c19a.css",
+    "static/js/main.7448e83d.js"
+  ]
+}
