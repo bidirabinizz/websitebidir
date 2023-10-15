@@ -4,7 +4,6 @@
   font-family: "Rubik", sans-serif;
 }
 
-
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -38,8 +37,6 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
 }
-
-
 
 .header {
   position: -webkit-sticky;
@@ -408,7 +405,7 @@ button:hover {
 
 .offer-img {
   height: 316px;
-  width: 255px;
+  min-width: 278px;
   left: 15px;
   top: 0px;
   border-radius: 0px;
@@ -654,14 +651,14 @@ section {
   .header {
     position: relative;
   }
-  .update{
-    padding:20px;
+  .update {
+    padding: 20px;
   }
-  .header{
-    padding-left:20px;
+  .header {
+    padding-left: 20px;
   }
-  .content{
-    margin:0pcx;
+  .content {
+    margin: 0pcx;
   }
 }
 
@@ -675,7 +672,7 @@ section {
   .wid {
     width: 100%;
   }
-   .header{
-    padding-left:20px;
+  .header {
+    padding-left: 20px;
   }
 }
