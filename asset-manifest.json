@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-template1/static/css/main.4e03c19a.css",
+    "main.css": "/react-template1/static/css/main.64f43056.css",
     "main.js": "/react-template1/static/js/main.a2b5313e.js",
     "static/media/about-us.png.svg": "/react-template1/static/media/about-us.png.90bfac949cd43f7523540a2abeccacea.svg",
     "static/media/home-right.png.svg": "/react-template1/static/media/home-right.png.cb53edc83844d4fde97b37f5ab80bef2.svg",
@@ -11,11 +11,11 @@
     "static/media/div_before.svg": "/react-template1/static/media/div_before.c8a4b845fe2971670cb0851bcaf759c1.svg",
     "static/media/logo3.png.svg": "/react-template1/static/media/logo3.png.a51c655e61b938163ca2b58070600cdf.svg",
     "index.html": "/react-template1/index.html",
-    "main.4e03c19a.css.map": "/react-template1/static/css/main.4e03c19a.css.map",
+    "main.64f43056.css.map": "/react-template1/static/css/main.64f43056.css.map",
     "main.a2b5313e.js.map": "/react-template1/static/js/main.a2b5313e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e03c19a.css",
+    "static/css/main.64f43056.css",
     "static/js/main.a2b5313e.js"
   ]
 }
