@@ -29,7 +29,7 @@ const Particle = () => {
           number: {
             value: 20,
             density: {
-              enable: true,
+              enable: false,
               value_area: 800,
             },
           },
@@ -103,7 +103,7 @@ const Particle = () => {
               },
             },
             onclick: {
-              enable: true,
+              enable: false,
               mode: "push",
             },
             resize: true,
@@ -129,7 +129,7 @@ const Particle = () => {
               particles_nb: 4,
             },
             remove: {
-              particles_nb: 2,
+              particles_nb: 3,
             },
           },
         },
