@@ -15,6 +15,7 @@ import s3 from "../assets/s3.png.svg";
 import s4 from "../assets/s4.png.svg";
 import Home_avtar from "../assets/home-right.png.svg";
 import { Typewriter } from "react-simple-typewriter";
+import React, { useEffect } from "react";
 
 var navbar = document.querySelector("header");
 window.onscroll = function () {
