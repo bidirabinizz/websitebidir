@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/websitebidir/static/css/main.4e03c19a.css",
-    "main.js": "/websitebidir/static/js/main.66985dc9.js",
-    "static/media/about-us.png.svg": "/websitebidir/static/media/about-us.png.c90442944ef0240ed6406bc4b83ad84e.svg",
-    "static/media/home-right.png.svg": "/websitebidir/static/media/home-right.png.49a4a4dd95094c5179d657ad10b140ac.svg",
-    "static/media/s2.png.svg": "/websitebidir/static/media/s2.png.e222f0e9c966164cb686bc42996c8693.svg",
-    "static/media/s4.png.svg": "/websitebidir/static/media/s4.png.7379ca3f1b283a6d6d6d5fd45c0bf9f4.svg",
-    "static/media/s3.png.svg": "/websitebidir/static/media/s3.png.3ed9fb8796943c531490cfacf0124b8b.svg",
-    "static/media/s1.png.svg": "/websitebidir/static/media/s1.png.b64a4b83c9155df642ff3a86d36a80a7.svg",
-    "static/media/div_before.svg": "/websitebidir/static/media/div_before.5e70f08340d9542ffc6be2c1692acac3.svg",
-    "static/media/logo3.png.svg": "/websitebidir/static/media/logo3.png.70a8e97bada6e93c55e987e99098b946.svg",
+    "main.css": "/websitebidir/static/css/main.dede996d.css",
+    "main.js": "/websitebidir/static/js/main.4b0b0d76.js",
+    "static/media/about-us.png.svg": "/websitebidir/static/media/about-us.png.90bfac949cd43f7523540a2abeccacea.svg",
+    "static/media/home-right.png.svg": "/websitebidir/static/media/home-right.png.cb53edc83844d4fde97b37f5ab80bef2.svg",
+    "static/media/s2.png.svg": "/websitebidir/static/media/s2.png.ee1f9f788805cd3bc9637f422bcbcbf9.svg",
+    "static/media/s4.png.svg": "/websitebidir/static/media/s4.png.dc478a8700d3fec0524b017ca66a0b3b.svg",
+    "static/media/s3.png.svg": "/websitebidir/static/media/s3.png.5f36d4c828cc3b250e59dd3dbc26612b.svg",
+    "static/media/s1.png.svg": "/websitebidir/static/media/s1.png.00014aa6c315bb6548b25acda7c5fea8.svg",
+    "static/media/div_before.svg": "/websitebidir/static/media/div_before.c8a4b845fe2971670cb0851bcaf759c1.svg",
+    "static/media/logo3.png.svg": "/websitebidir/static/media/logo3.png.a51c655e61b938163ca2b58070600cdf.svg",
     "index.html": "/websitebidir/index.html",
-    "main.4e03c19a.css.map": "/websitebidir/static/css/main.4e03c19a.css.map",
-    "main.66985dc9.js.map": "/websitebidir/static/js/main.66985dc9.js.map"
+    "main.dede996d.css.map": "/websitebidir/static/css/main.dede996d.css.map",
+    "main.4b0b0d76.js.map": "/websitebidir/static/js/main.4b0b0d76.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e03c19a.css",
-    "static/js/main.66985dc9.js"
+    "static/css/main.dede996d.css",
+    "static/js/main.4b0b0d76.js"
   ]
 }
