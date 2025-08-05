@@ -42,24 +42,24 @@ const LandingPage = () => {
                 <a href="#hero">home</a>
               </li>
               <li>
-                <a href="#intro">about</a>
+                <a href="#intro">Hakkımda</a>
               </li>
               <li>
-                <a href="#portfolio">portfolio</a>
+                <a href="#portfolio">Portföy</a>
               </li>
               <li>
-                <a href="#services">service</a>
+                <a href="#services">Hizmetler</a>
               </li>
               <li>
-                <a href="#">pages</a>
+                <a href="#">Sayfalar</a>
               </li>
               <div className="drop">
                 <li>
-                  <a href="https://instagram.com/bidircikk">blog</a>
+                  <a href="https://instagram.com/bidircikk">Blog</a>
                 </li>
               </div>
               <li>
-                <a href="#contact">contact</a>
+                <a href="#contact">İletişim</a>
               </li>
             </ul>
           </nav>
@@ -69,18 +69,18 @@ const LandingPage = () => {
         <div className="left left-content">
           <div className="head">
             <div className="hii">
-              <h3>Hello</h3>
+              <h3></h3>
               <div className="line"></div>
             </div>
           </div>
           <div className="name">
             <h1>
               <Typewriter
-                words={["Bıdır Abiniz"]}
+                words={["Bahadır Büyüktopac"]}
                 loop={1}
                 cursor
                 cursorStyle="|"
-                typeSpeed={70}
+                typeSpeed={80}
                 deleteSpeed={50}
                 delaySpeed={80}
               />
@@ -88,8 +88,7 @@ const LandingPage = () => {
             <h5 className="about1">
               <Typewriter
                 words={[
-                  "I'm Full-Stack Developer",
-                  "Kendi Biom",
+                  "Yazılımcı",
                   "Freelancer",
                   "&",
                   "Designer",
@@ -99,7 +98,7 @@ const LandingPage = () => {
                 cursorStyle="_"
                 typeSpeed={70}
                 deleteSpeed={0}
-                delaySpeed={1000}
+                delaySpeed={700}
               />
             </h5>
           </div>
@@ -305,6 +304,7 @@ const LandingPage = () => {
               Sizler için
               <br />
               sesli & görüntülü <br />
+              
               konuşabilirim.
             </p>
           </div>
